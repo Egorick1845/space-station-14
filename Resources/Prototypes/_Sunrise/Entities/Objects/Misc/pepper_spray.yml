@@ -17,7 +17,7 @@
   - type: DrainableSolution
     solution: spray
   - type: RefillableSolution
-    solution: pepper spray
+    solution: bucket
   - type: UseDelay
   - type: Spray
     transferAmount: 5
