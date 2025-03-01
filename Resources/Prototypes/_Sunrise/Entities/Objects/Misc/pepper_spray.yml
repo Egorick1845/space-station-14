@@ -16,6 +16,8 @@
           Quantity: 40
   - type: DrainableSolution
     solution: spray
+  - type: RefillableSolution
+    solution: bucket
   - type: UseDelay
   - type: Spray
     transferAmount: 5
